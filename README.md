@@ -7,6 +7,5 @@
 | 项目   | GitHub                                         | 代码路径               |
 | ------ | ---------------------------------------------- | ---------------------- |
 | 梁嘉嘉 | [@solisamicus](https://github.com/solisamicus) | [`ljj`](ljj/README.md) |
-| 李杉杉 | [@yatbfm](https://github.com/yatbfm) | [`ls`](ls/README.md) |
-| 郝民豪 | [@kirinhao](https://github.com/kirinhao) | [`hmh`](hmh/README.md) |
-
+| 李杉杉 | [@yatbfm](https://github.com/yatbfm)           | [`ls`](ls/README.md)   |
+| 郝民豪 | [@kirinhao](https://github.com/kirinhao)       | [`hmh`](hmh/README.md) |
