@@ -3,6 +3,7 @@
 #
 # [49] 字母异位词分组
 #
+# type:ignore
 
 # @lc code=start
 class Solution:
