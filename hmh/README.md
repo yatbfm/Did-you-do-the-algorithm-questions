@@ -30,3 +30,18 @@ chore(progress): [题目编号][题目名称] -> [进度状态]
 ```
 
 举例：chore(progress): [704. 二分查找] -> ✅
+
+## 做题记录
+
+### 哈希
+
+* [1-两数之和](https://leetcode.cn/problems/two-sum/description/?envType=study-plan-v2&envId=top-100-liked)
+* [49-字母异位词分组](https://leetcode.cn/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-100-liked)
+* [128-最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-100-liked)
+
+### 双指针
+
+* [283-移动零]
+* [11-盛最多水的容器]
+* []
+
